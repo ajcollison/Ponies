@@ -2,7 +2,7 @@
 Ponies
 ======
 
-I like ponies.
+I like ponies.  Especially Shetland ponies.
 
 Stuff
 -----
